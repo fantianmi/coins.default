@@ -1,0 +1,13 @@
+INDEX VERSION 1.126
+D:\oursdreams.github.workspace\coins\coins.default\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1255048929.index
+\com.bitcoin.dy.admin.2.0.0\src
+D:\oursdreams.github.workspace\coins\coins.default\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2467234612.index
+\com.bitcoin.dy.admin.2.0.0\src
+D:\oursdreams.github.workspace\coins\coins.default\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2791673501.index
+\com.bitcoin.dy.2.0.0\src
+D:\oursdreams.github.workspace\coins\coins.default\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\478546725.index
+\com.bitcoin.dy.2.0.0\src
+D:\oursdreams.github.workspace\coins\coins.default\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3723829786.index
+\com.bitcoin.dy.admin.2.0.0\src
+D:\oursdreams.github.workspace\coins\coins.default\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1100500549.index
+\com.bitcoin.dy.2.0.0\src

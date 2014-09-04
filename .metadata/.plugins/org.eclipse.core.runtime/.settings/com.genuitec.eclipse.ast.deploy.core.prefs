@@ -1,0 +1,26 @@
+#Mon Sep 01 10:14:50 CST 2014
+tomcat7Server.com.bitcoin.dy.2.0.0.isDeployed=true
+tomcat7Server.com.bitcoin.dy.2.0.0.altContextRoot=
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.isDeployed=true
+tomcat7Server.com.bitcoin.dy.2.0.0.isUptoDate=true
+tomcat7Server.com.bitcoin.dy.2.0.0.deploymentPath=D\:\\apache-tomcat-7.0.54-windows-x64\\apache-tomcat-7.0.54\\webapps\\bitcoin
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.isUptoDate=true
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.type=WebDeployment
+tomcat7Server.com.bitcoin.dy.2.0.0.isExploded=true
+tomcat7Server.com.bitcoin.dy.2.0.0.shouldBackup=true
+tomcat7Server.com.bitcoin.dy.2.0.0.noFileCopy=false
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.noFileCopy=false
+eclipse.preferences.version=1
+tomcat7Server.com.bitcoin.dy.2.0.0.type=WebDeployment
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.deploymentPath=D\:\\apache-tomcat-7.0.54-windows-x64\\apache-tomcat-7.0.54\\webapps\\bitcoinadmin
+tomcat7Server.com.bitcoin.dy.2.0.0.contextRoot=/bitcoin
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.deployIsOverProject=false
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.contextRoot=/bitcoinadmin
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.shouldOverwrite=false
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.isExploded=true
+tomcat7Server.com.bitcoin.dy.2.0.0.shouldOverwrite=false
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.IEARProjectName=
+tomcat7Server.com.bitcoin.dy.2.0.0.IEARProjectName=
+tomcat7Server.com.bitcoin.dy.2.0.0.deployIsOverProject=false
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.altContextRoot=
+tomcat7Server.com.bitcoin.dy.admin.2.0.0.shouldBackup=false
